@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editJudul" type="id" />
+    <item name="tanggal" type="id" />
+    <item name="itemsList" type="id" />
+</resources>
